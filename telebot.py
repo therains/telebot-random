@@ -16,7 +16,7 @@ from json import dumps
 
 group = ""
 global_welcome_message = "WELCOME TO THE GROUP "
-left_message = "SEE YA POOSE"
+left_message = ""
 
 
 bot = Client(
